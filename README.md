@@ -5,4 +5,4 @@ Intrusion Detection System using Nmap, Wireshark and Snort
 
 APT Detection System Interface
 
-![APT Detection Output](IDS Project.jpg)
+![APT Detection Output](ids_project.jpg)
