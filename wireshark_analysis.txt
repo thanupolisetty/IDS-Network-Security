@@ -1,0 +1,9 @@
+Wireshark Packet Analysis
+
+Wireshark is a network protocol analyzer used to capture and inspect packets.
+
+Purpose:
+To monitor network traffic and identify suspicious communication.
+
+Outcome:
+Captured packets were analyzed to detect abnormal traffic patterns.
