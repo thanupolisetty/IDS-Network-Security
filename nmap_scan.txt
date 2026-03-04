@@ -1,0 +1,9 @@
+Nmap Scan Analysis
+
+Nmap is used to scan networks and identify active hosts and open ports.
+
+Command used:
+nmap -sS 192.168.1.1
+
+Purpose:
+To identify vulnerable ports and services running on the target system.
