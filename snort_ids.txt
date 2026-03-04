@@ -1,0 +1,9 @@
+Snort Intrusion Detection
+
+Snort is an open-source Intrusion Detection System.
+
+Purpose:
+To detect malicious traffic using rule-based detection.
+
+Result:
+Snort successfully identified suspicious packets and generated alerts.
